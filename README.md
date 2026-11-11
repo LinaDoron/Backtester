@@ -1,4 +1,4 @@
-# Kabal — Backtesting SMC Hypotheses in Natural Language
+# Backtesting SMC Hypotheses in Natural Language
 
 A Telegram bot that transforms a trading hypothesis, written in ordinary text, into Python code and runs it across the history of EURUSD, GBPUSD, and USDCHF.
 
